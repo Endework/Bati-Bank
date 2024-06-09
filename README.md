@@ -1,4 +1,5 @@
 # Bati Bank Credit Scoring Model
+![image](https://github.com/Endework/Bati-Bank/assets/83136075/961e8d11-8ad6-4633-a20b-0e550e2bebc8)
 
 ## Overview
 
