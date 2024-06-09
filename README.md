@@ -1,7 +1,3 @@
-Sure! Here's a more concise version of the README:
-
----
-
 # Bati Bank Credit Scoring Model
 
 ## Overview
